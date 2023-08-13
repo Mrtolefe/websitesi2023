@@ -1,0 +1,14 @@
+Tema tamamen saçma sapan kodlanmış. 
+
+Adamlar veritabanı eklemiş ama bir sik yaradığı yok. SQL yok içerisinde çünkü gerek yok. 
+Gidin sql.php'e veritabanı bilgilerinizi girin. 
+
+Sayfaların yazılarını "app\main\pages" dosya yolunda düzenleyin.
+
+Ürünlerin fiyatını ise "datas.php" dosyasından düzenleyin.
+
+İndirim yüzdesi ayarlamak için "config.php" dosyasını düzenleyin.
+
+Sunucunun header ( üst menü ) footer ( alt menü ) yerleri için "app\main\static" dosya yoluna gidin.
+
+:D :D Teşekkür etmenize gerek yok bu temaya 250TL veren enayiler istediği kadar ağlayabilir :D :D 
